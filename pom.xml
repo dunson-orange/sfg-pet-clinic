@@ -17,7 +17,8 @@
     <version>0.0.3</version>
     <name>sfg-pet-clinic</name>
     <scm>
-        <developerConnection>https://github.com/dunson-orange/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/dunson-orange/sfg-pet-clinic</url>
+        <connection>scm:git:https://github.com/dunson-orange/sfg-pet-clinic.git</connection>
         <tag>sfg-pet-clinic-0.0.3</tag>
     </scm>
     <description>SFG Pet Clinic Project</description>
